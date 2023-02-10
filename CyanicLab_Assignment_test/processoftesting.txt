@@ -1,0 +1,13 @@
+Hello Sir,
+
+firstly open terminal and enter npm run serverRun
+start server http://localhost:5000/
+now enter the form entry
+then click on enter data
+now /fetches will open with all entry that you have entered
+and form all the task like update,delete,logout etc.
+
+soft delete works as if you delete then it works with Boolean. Before delete the status of the entry 
+is false then after delete it turns into true and get the all delete data on url http://localhost:5000/deleteditems
+
+
